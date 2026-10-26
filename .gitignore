@@ -1,0 +1,21 @@
+# Fichiers locaux et secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+state.json
+state.tmp
+*.csv
+backups/
