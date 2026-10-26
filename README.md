@@ -167,7 +167,7 @@ Un fonctionnement permanent nécessite une machine restant allumée et un gestio
 | Bilan incomplet | Activer Server Members Intent des deux côtés pour inclure les étudiants sans activité |
 | État illisible | Arrêter puis restaurer une copie valide ; garder le fichier défectueux en privé avant réparation |
 
-## Organisation et état du projet
+## Organisation du projet
 
 | Fichier | Rôle |
 |---|---|
@@ -177,4 +177,4 @@ Un fonctionnement permanent nécessite une machine restant allumée et un gestio
 | .env.example | Paramètres vides à copier localement |
 | state.json | Données locales créées à l'exécution, exclues de Git |
 
-Sources issues de l'archive locale PC maj_6. Cette version conserve l'ancien paramètre IA : la demande ultérieure de retrait n'est pas intégrée aux sources retrouvées. Aucun état étudiant n'a été importé ou migré. Voir [VALIDATION.md](VALIDATION.md) : contrôles hors connexion réalisés, recette Discord réelle encore à effectuer.
+Cette version utilise le barème présenté ci-dessus, avec le paramètre IA dans la déclaration des labs. L'état du serveur et les exports restent locaux et ne sont pas inclus dans le dépôt.
